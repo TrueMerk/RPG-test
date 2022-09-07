@@ -1,0 +1,14 @@
+<dialogue>
+<node>
+<npctext> Спасибо за помощь! </npctext>
+<answers>
+<answer tonode = "1"> <text> ... </text> </answer>
+</answers>
+</node>
+<node>
+    <npctext> ?? </npctext>
+<answers>
+<answer tonode="0"> <text> ... </text> <dialend>true</dialend> </answer>
+</answers>
+</node>
+</dialogue>

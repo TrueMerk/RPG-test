@@ -1,0 +1,14 @@
+<dialogue>
+<node>
+<npctext> Привет, друг, тут за углом стоят три бандюгана, которые хотели отобрать все мое пиво. Накажи их и я угощу тебя бутылочкой. </npctext>
+<answers>
+<answer tonode = "1"> <text> Хорошо, я разберусь с ними. </text> </answer>
+</answers>
+</node>
+<node>
+    <npctext> Береги себя! </npctext>
+<answers>
+<answer tonode="0"> <text> Оделась бы... </text> <dialend>true</dialend> </answer>
+</answers>
+</node>
+</dialogue>
